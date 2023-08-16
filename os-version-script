@@ -3,3 +3,4 @@
 cat /etc/os-release
 
 #after all this, to run this shell type ./nameoffile and press enter
+#dont forget to give all execute permissons to the file by typing chmod a+x filename
