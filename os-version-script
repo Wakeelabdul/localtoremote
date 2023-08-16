@@ -1,3 +1,5 @@
 #!/bin/bash
 
 cat /etc/os-release
+
+#after all this, to run this shell type ./nameoffile and press enter
