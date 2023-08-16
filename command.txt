@@ -1,1 +1,3 @@
 pscp -i C:/keu_location_on_local/practice.ppk C:/Users/location_of_file_on_local/text.txt user-name@ec2-13-235-134-88.ap-south-1.compute.amazonaws.com:/home/location_file_uwanttobe_inremote/test.txt
+
+This is the command line to transfer from local to remote
